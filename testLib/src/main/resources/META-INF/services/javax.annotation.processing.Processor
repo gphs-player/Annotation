@@ -1,0 +1,3 @@
+#com.leo.testlib.HelloWorldProcess  #没问题
+#com.leo.store.processor.FactoryProcessor #没问题
+#com.leo.testlib.ViewProcessor #也行了，AS反应有点慢
