@@ -28,12 +28,6 @@ import javax.lang.model.type.TypeMirror;
 import javax.lang.model.util.Elements;
 import javax.lang.model.util.Types;
 
-/**
- * <p>Date:2019/5/9.5:13 PM</p>
- * <p>Author:niu bao</p>
- * <p>Desc:</p>
- */
-
 //@AutoService(Processor.class)//或者手动创建META-INF目录
 @SupportedSourceVersion(SourceVersion.RELEASE_8)
 @SupportedAnnotationTypes({"com.leo.annotation.IActivity"})

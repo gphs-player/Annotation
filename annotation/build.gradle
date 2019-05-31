@@ -1,5 +1,5 @@
 apply plugin: 'java-library'
-
+//只负责写注解类的工程
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 }

@@ -16,11 +16,6 @@ import javax.lang.model.element.TypeElement;
 import javax.lang.model.util.Elements;
 import javax.management.InstanceAlreadyExistsException;
 
-/**
- * <p>Date:2019/5/10.5:28 PM</p>
- * <p>Author:niu bao</p>
- * <p>Desc:</p>
- */
 public class FactoryGroupedClasses {
 
     private static final String SUFFIX = "Factory";

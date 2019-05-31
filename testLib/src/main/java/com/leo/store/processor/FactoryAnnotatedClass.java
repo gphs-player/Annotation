@@ -6,11 +6,6 @@ import javax.lang.model.element.TypeElement;
 import javax.lang.model.type.DeclaredType;
 import javax.lang.model.type.MirroredTypeException;
 
-/**
- * <p>Date:2019/5/10.4:54 PM</p>
- * <p>Author:niu bao</p>
- * <p>Desc:</p>
- */
 public class FactoryAnnotatedClass {
 
     private String qualifiedSuperClassName;

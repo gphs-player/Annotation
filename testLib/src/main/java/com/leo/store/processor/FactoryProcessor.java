@@ -27,12 +27,7 @@ import javax.lang.model.util.Elements;
 import javax.lang.model.util.Types;
 import javax.tools.Diagnostic;
 
-/**
- * <p>Date:2019/5/10.11:08 AM</p>
- * <p>Author:niu bao</p>
- * <p>Desc:</p>
- */
-//@AutoService(Processor.class)
+@AutoService(Processor.class)
 public class FactoryProcessor extends AbstractProcessor {
 
     private Types typeUtils;

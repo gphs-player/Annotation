@@ -20,7 +20,7 @@ import java.io.IOException;
 import java.util.Date;
 import java.util.LinkedHashSet;
 import java.util.Set;
-//@AutoService(Processor.class)//自动生成META-INF
+@AutoService(Processor.class)//自动生成META-INF
 @SupportedAnnotationTypes("com.leo.annotation.Hello")//要处理的注解
 @SupportedSourceVersion(SourceVersion.RELEASE_8)
 public class HelloWorldProcess extends AbstractProcessor {

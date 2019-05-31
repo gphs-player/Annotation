@@ -1,5 +1,5 @@
 apply plugin: 'java-library'
-
+//只负责处理Processor的工程
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation project(':annotation')

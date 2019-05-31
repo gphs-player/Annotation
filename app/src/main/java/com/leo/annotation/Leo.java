@@ -1,9 +1,7 @@
 package com.leo.annotation;
 
 /**
- * <p>Date:2019/5/31.11:29 AM</p>
- * <p>Author:niu bao</p>
- * <p>Desc:</p>
+ * 用于测试在Javapoet中自动导入包名
  */
 public class Leo {
 }

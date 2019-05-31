@@ -8,8 +8,6 @@ import com.squareup.javapoet.TypeSpec;
 import javax.lang.model.element.Modifier;
 
 /**
- * <p>Date:2019/5/9.4:58 PM</p>
- * <p>Author:niu bao</p>
  * <p>Desc:JavaFile生成一个示例，输出到控制台</p>
  */
 public class Demo {
