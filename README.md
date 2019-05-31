@@ -17,3 +17,4 @@
 
 [http://hannesdorfmann.com/annotation-processing/annotationprocessing101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)
 
+[谈谈APT和JavaPoet的一些使用技巧和要点](https://xsfelvis.github.io/2018/06/06/%E8%B0%88%E8%B0%88APT%E5%92%8CJavaPoet%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E5%B7%A7/)
